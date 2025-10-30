@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tevinmorake" target="blank"><img src="https://img.shields.io/twitter/follow/tevinmorake?logo=twitter&style=for-the-badge" alt="tevinmorake" /></a> </p>
 
-- 🌱 I’m currently learning **Java, c#, flutter, Angular2+**
+- 🌱 I’m currently learning **Java, c#, flutter, Angular2, & remastering the basics+**
 
 - 👨‍💻 Most of my projects are available at [My Repoville!](https://github.com/tevin-morake?tab=repositories) . I've got private gems for those special people
 
